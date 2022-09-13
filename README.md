@@ -11,7 +11,8 @@
   * Web1 *(1990-2000)* : 單向傳遞資訊、資訊傳播(Informative Web)
   * Web2 *(2000-2020)* : 可以雙向交流、社群軟體興起(Social Web)
   * Web3 *(2020-)* : 去中心化的網路、區塊鏈(Base)、虛擬貨幣(Decentralized Web)
-  [image](https://user-images.githubusercontent.com/112916890/189841404-116111c1-2dd9-4ee6-825a-99d673a3c482.png)
+  ![Web3 跟區塊鏈、元宇宙的分別](https://user-images.githubusercontent.com/112916890/189841404-116111c1-2dd9-4ee6-825a-99d673a3c482.png) ![AI在元宇宙發展的可能性](https://user-images.githubusercontent.com/112916890/189842032-12d18360-decb-480b-8f6b-07a7af28d734.png)
+
 * 上課簡報: [1/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=5A1kyY9VrR0)
 ### week 2: 建立靜態網站 Web1
 * #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/)
