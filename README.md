@@ -1,8 +1,9 @@
 # 111-1 師大科技系網際網路概論
-## :smile:課程資訊
-### :teacher:授課老師: [蔡芸琤 Tsai, Yun-Cheng](https://github.com/pecu?tab=repositories)
-### 姓名:張乃云
-### 系級: 科技系二年級
+***
+#### 授課教師： [蔡芸琤 Tsai, Yun-Cheng 老師](https://github.com/pecu?tab=repositories)
+#### 姓名：張乃云
+#### 系級：科技系2年級
+***
 ## :pencil:課程筆記區
 ### week 1: Introduction
 #### - 
