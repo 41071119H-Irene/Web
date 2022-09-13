@@ -9,7 +9,7 @@
 #### - 
 #### - 上課簡報: [1/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=5A1kyY9VrR0)
 ### week 2: 建立靜態網站 Web1
-#### - 
+#### - [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/)
 #### - 上課簡報: [2/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結區
 ## 📽️專題連結區
