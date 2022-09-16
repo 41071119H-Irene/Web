@@ -6,9 +6,9 @@
 ***
 # 目錄  
 
-+ [**課程筆記**](https://github.com/41071119H-Irene/Web#pencil%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
-+ [**作業連結**](https://github.com/41071119H-Irene/Web#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
-+ [**專題連結**](https://github.com/41071119H-Irene/Web#%EF%B8%8F%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
++ [**課程筆記**](https://github.com/41071119H-Irene/Web#pencil%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98)
++ [**作業連結**](https://github.com/41071119H-Irene/Web#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
++ [**專題連結**](https://github.com/41071119H-Irene/Web#%EF%B8%8F%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90)
 
 ## :pencil:課程筆記
 ### week 1: Introduction
@@ -25,7 +25,11 @@
    * Hyper Text Markup Language
    * 網頁構成的架構(補充:css語法:網頁外觀美化)
    * 對稱式結構
-* 上課簡報: [2/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+* 上課簡報: [2/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=500306)
+### week 3: 詳細看到資訊傳送的過程
+* 
+   * 
+* 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
 > #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) (week2)
 ## 📽️專題連結
