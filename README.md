@@ -21,10 +21,16 @@
 
  * 上課簡報: [1/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=5A1kyY9VrR0)
 ### week 2: 建立靜態網站 Web1
-* [html學習平台](https://www.w3schools.com/)
+* [html學習平台(W3schools)](https://www.w3schools.com/)
    * Hyper Text Markup Language
    * 網頁構成的架構(補充:css語法:網頁外觀美化)
    * 對稱式結構
+* CSS Code
+   * 網頁外觀的調整(美編)
+* Bootstrap
+   * 一組用於網站和網路應用程式開發的開源前端框架
+   * 字體排印、表單、按鈕、導航及其他各種元件(動態/靜態)
+   * 包含HTML、CSS及JavaScript的框架
 * 上課簡報: [2/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=500306)
 ### week 3: 詳細看到資訊傳送的過程
 * 
