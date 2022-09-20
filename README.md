@@ -47,7 +47,8 @@
 * [網頁製作線上練習平台(codepen)](https://codepen.io/)
 * [JS語法教學-可互動，有動態畫面(仍為單向輸出)](https://learnjavascript.online/)
 * [html, CSS-靜態網頁](https://learnhtmlcss.online/)
-* DNS Server(Domin Name System)
+* DNS Server(Domin Name System): 網路上的地址
+   * [DNS派送流程](https://www.youtube.com/watch?v=2ZUxoi7YNgs)
  ![image](https://user-images.githubusercontent.com/112916890/191155257-09267884-d668-4914-88ad-6d596503fab6.png)
 * [跟本機(terminal)對話的一些語法](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 * 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
