@@ -36,11 +36,20 @@
 * 通訊協定(protocol)
    * 雙方不同訊息的單位一起規定的規則
    * 資訊傳送過程
+      * OSI Model
       * Pysical & Datalink Layer 硬體處理
       * Network Layer之後都是軟體處裡的
-      *
    ![image](https://user-images.githubusercontent.com/112916890/191151732-1083c206-ec5c-4216-82e7-7cb7bb5cec74.png)
-
+   ![image](https://user-images.githubusercontent.com/112916890/191153062-1279de7b-5dc9-493a-814a-b014a4520f09.png)
+   * [通訊協定規則-1995](https://www.rfc-editor.org/)
+      * 定義為什麼要這樣寫code(共識)
+      * 讓各個裝置可以共通使用
+* [網頁製作線上練習平台(codepen)](https://codepen.io/)
+* [JS語法教學-可互動，有動態畫面(仍為單向輸出)](https://learnjavascript.online/)
+* [html, CSS-靜態網頁](https://learnhtmlcss.online/)
+* DNS Server(Domin Name System)
+ ![image](https://user-images.githubusercontent.com/112916890/191155257-09267884-d668-4914-88ad-6d596503fab6.png)
+* [跟本機(terminal)對話的一些語法](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 * 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
 > #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) (week2)
