@@ -33,8 +33,14 @@
    * 包含HTML、CSS及JavaScript的框架
 * 上課簡報: [2/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=500306)
 ### week 3: 詳細看到資訊傳送的過程
-* 
-   * 
+* 通訊協定(protocol)
+   * 雙方不同訊息的單位一起規定的規則
+   * 資訊傳送過程
+      * Pysical & Datalink Layer 硬體處理
+      * Network Layer之後都是軟體處裡的
+      *
+   ![image](https://user-images.githubusercontent.com/112916890/191151732-1083c206-ec5c-4216-82e7-7cb7bb5cec74.png)
+
 * 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
 > #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) (week2)
