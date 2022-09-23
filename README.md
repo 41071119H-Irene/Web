@@ -53,7 +53,9 @@
 * [跟本機(terminal)對話的一些語法](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 * 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
-> #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) (week2)
-> #### [個人作業一-GitHub基本使用&靜態網頁編輯]()(week3)![image](https://user-images.githubusercontent.com/112916890/191158307-72e0db70-e095-43b5-9a64-3190aae10b49.png)
+> ### Week2
+>> #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) 
+> ### Week3
+>> #### [個人作業一-GitHub基本使用&靜態網頁編輯]()![image](https://user-images.githubusercontent.com/112916890/191158307-72e0db70-e095-43b5-9a64-3190aae10b49.png)
 
 ## 📽️專題連結
