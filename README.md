@@ -54,7 +54,9 @@
 * 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=efQvdV3W1xU)
 
 ### week 4: HTTP 請求方法、HTTP 狀態碼 Status Code、實作 server 端
-* 開發人員工具裡可以看到
+* Node Js 實作
+   * [教材](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
+* 開發人員工具裡可以看到 HTTP 狀態
 * 狀態碼:
    * 正常狀態200-299
    * 用戶端錯誤: 400-499(404最常見)
