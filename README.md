@@ -62,6 +62,5 @@
 > ### Week2
 >> #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) 
 > ### Week3
->> #### [個人作業一-GitHub基本使用&靜態網頁編輯](https://youtu.be/W8LdpchzrwI)![image](https://user-images.githubusercontent.com/112916890/191158307-72e0db70-e095-43b5-9a64-3190aae10b49.png)
-
+>> #### [個人作業一-GitHub基本使用&靜態網頁編輯](https://youtu.be/mcCPcjOdGfE)
 ## 📽️專題連結
