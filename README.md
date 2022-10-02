@@ -54,9 +54,19 @@
 * 上課簡報: [3/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=efQvdV3W1xU)
 
 ### week 4: HTTP 請求方法、HTTP 狀態碼 Status Code、實作 server 端
+* 開發人員工具裡可以看到
+* 狀態碼:
+   * 正常狀態200-299
+   * 用戶端錯誤: 400-499(404最常見)
+   * ![image](https://user-images.githubusercontent.com/112916890/193435958-ec4d7388-e6c1-4b07-81d9-dff7e3fb0518.png)
+
+* 上課簡報: [4/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=fvwETcSQ3ig)
+
+### week 5: 建立第一個中心化動態網頁 WEB2
 * 
    * 
-* 上課簡報: [4/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+
+* 上課簡報: [5/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
