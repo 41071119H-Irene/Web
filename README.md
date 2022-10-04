@@ -67,6 +67,8 @@
 ### week 5: 建立第一個中心化動態網頁 WEB2
 * Node.js + MySQL
    * MySQL:後端使用空間
+   ![image](https://user-images.githubusercontent.com/112916890/193728159-6681e137-f1b8-4951-a9c7-d39c189db8d3.png)
+
 
 * 上課簡報: [5/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
