@@ -65,8 +65,8 @@
 * 上課簡報: [4/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=fvwETcSQ3ig)
 
 ### week 5: 建立第一個中心化動態網頁 WEB2
-* 
-   * 
+* Node.js + MySQL
+   * MySQL:後端使用空間
 
 * 上課簡報: [5/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
