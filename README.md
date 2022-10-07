@@ -70,11 +70,20 @@
    ![image](https://user-images.githubusercontent.com/112916890/193728159-6681e137-f1b8-4951-a9c7-d39c189db8d3.png)
 
 
-* 上課簡報: [5/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+* 上課簡報: [5/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=Bkhk4bivVPw&feature=youtu.be)
+
+### week 6: AWS EDUCATE 簡介與自學方案
+* as
+   * as
+* 上課簡報: [6/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQwXzwsXpz6GtsB2y1adorvi6a0OD3nXORh2g2nnER3YYPWsPKympVULtEOnMLSB4HZOcnsxnmdB1hg/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
 >> #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) 
 > ### Week3
 >> #### [個人作業一-GitHub基本使用&靜態網頁編輯](https://youtu.be/mcCPcjOdGfE)
+> ### week5
+>> #### [個人作業二-CRUD教學](https://www.youtube.com/watch?v=Bkhk4bivVPw)
+![image](https://user-images.githubusercontent.com/112916890/194534884-91a176db-48cc-49d4-b6d1-4c353a79b15b.png)
+
 ## 📽️專題連結
