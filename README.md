@@ -73,8 +73,8 @@
 * 上課簡報: [5/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=Bkhk4bivVPw&feature=youtu.be)
 
 ### week 6: AWS EDUCATE 簡介與自學方案
-* as
-   * as
+* 建立第一個中心化網頁Web2
+   * [CRUD參考資料](https://www.youtube.com/watch?v=re3OIOr9dJI&feature=emb_logo)
 * 上課簡報: [6/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQwXzwsXpz6GtsB2y1adorvi6a0OD3nXORh2g2nnER3YYPWsPKympVULtEOnMLSB4HZOcnsxnmdB1hg/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
