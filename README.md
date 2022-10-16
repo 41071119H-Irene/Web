@@ -83,6 +83,6 @@
 > ### Week3
 >> #### [個人作業一-GitHub基本使用&靜態網頁編輯](https://youtu.be/mcCPcjOdGfE)
 > ### week5
->> #### [個人作業二-CRUD教學](https://youtu.be/e98hQpi8Pac)
+>> #### [個人作業二-CRUD&前後端連結教學](https://youtu.be/e98hQpi8Pac)
 
 ## 📽️專題連結
