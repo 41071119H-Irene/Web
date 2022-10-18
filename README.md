@@ -79,7 +79,25 @@
 
 ### week 7: AMAZON EC2 LAB
 * [AWS Educate](https://www.awseducate.com/student/s/)
-   * 
+* EC2(Amazon Elastic Compute Cloud)
+   * 如何在雲端上操控虛擬電腦
+   * IaaS(彈性最大)
+      * EC2
+      * 付錢調整儲存空間
+      * 硬體以外自己處裡
+   * PaaS
+      * 些微可以更動功能(無法自行安裝作業系統)
+      * RDS
+      * 最會程式開發app的工程師
+   * SaaS(彈性最小)
+      * 無法擴充及增加基本功能
+      * 所有功能由開發者決定
+      * 視覺化介面
+      * 程式發布
+   ![image](https://user-images.githubusercontent.com/112916890/196316146-65927543-ad71-476c-9903-9775aa12c9e2.png)
+   ![image](https://user-images.githubusercontent.com/112916890/196317072-4e1987ee-7c66-4e88-9f69-44fe465cc763.png)
+   ![image](https://user-images.githubusercontent.com/112916890/196317150-672c58da-acde-42c2-beeb-75c6c60920a2.png)
+
 * 上課簡報: [7/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
@@ -89,5 +107,8 @@
 >> #### [個人作業一-GitHub基本使用&靜態網頁編輯](https://youtu.be/mcCPcjOdGfE)
 > ### week5
 >> #### [個人作業二-CRUD&前後端連結教學](https://youtu.be/e98hQpi8Pac)
+> ### week7
+>> ### [個人作業三-AWS Lab1&2]()![image](https://user-images.githubusercontent.com/112916890/196314970-1eb3d576-dc89-4c62-a917-9bfc0b9a61ba.png)
 
-## 📽️專題連結
+
+## 📽️專題連結-科學生活節
