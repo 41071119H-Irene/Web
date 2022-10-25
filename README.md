@@ -98,8 +98,11 @@
    ![image](https://user-images.githubusercontent.com/112916890/196317072-4e1987ee-7c66-4e88-9f69-44fe465cc763.png)
    ![image](https://user-images.githubusercontent.com/112916890/196317150-672c58da-acde-42c2-beeb-75c6c60920a2.png)
 
-* 上課簡報: [7/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+* 上課簡報: [7/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=vvKKRd9BOa4&feature=youtu.be)
 
+### week 8: INTRODUCTION TO AMAZON SIMPLE STORAGE SERVICE (S3) LAB
+* [AWS Educate](https://www.awseducate.com/student/s/)
+* 上課簡報: [8/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
 > ### Week2
 >> #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) 
