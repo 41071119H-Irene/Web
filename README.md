@@ -111,7 +111,7 @@
 > ### week5
 >> #### [個人作業二-CRUD&前後端連結教學](https://youtu.be/e98hQpi8Pac)
 > ### week7
->> ### [個人作業三-AWS Lab1&2 S3 & EC2 Introduction](https://youtu.be/dlJcCukwRv4)
+>> #### [個人作業三-AWS Lab1&2 S3 & EC2 Introduction](https://youtu.be/dlJcCukwRv4)
 
 
 ## 📽️專題連結-科學生活節
