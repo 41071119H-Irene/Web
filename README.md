@@ -102,7 +102,13 @@
 
 ### week 8: INTRODUCTION TO AMAZON SIMPLE STORAGE SERVICE (S3) LAB
 * [AWS Educate](https://www.awseducate.com/student/s/)
-* 上課簡報: [8/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+* 上課簡報: [8/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=646e6wXtnL0&feature=youtu.be)
+
+### week 9: WEB3.0與區塊鏈概念介紹
+* [AWS Educate](https://www.awseducate.com/student/s/)
+* 上課簡報: [9/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+
+
 ## 🙌作業連結
 > ### Week2
 >> #### [個人靜態網站](https://41071119h-irene.github.io/Web/Mypage/) 
@@ -112,6 +118,9 @@
 >> #### [個人作業二-CRUD&前後端連結教學](https://youtu.be/e98hQpi8Pac)
 > ### week7
 >> #### [個人作業三-AWS Lab1&2 S3 & EC2 Introduction](https://youtu.be/dlJcCukwRv4)
+> ### week9
+>> #### [個人作業四-AWS Lab5&6 VPC & IAM Introduction]()
+![image](https://user-images.githubusercontent.com/112916890/199136121-41c75b6e-aefd-4276-9096-dd553981e8c6.png)
 
 
 ## 📽️專題連結-科學生活節
