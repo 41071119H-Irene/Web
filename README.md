@@ -106,6 +106,14 @@
 
 ### week 9: WEB3.0與區塊鏈概念介紹
 * [AWS Educate](https://www.awseducate.com/student/s/)
+* [Figma](https://www.figma.com/)
+* Web 3.0
+   * 價值和數位貨幣的連結
+   ![image](https://user-images.githubusercontent.com/112916890/199146376-ccde7421-71cc-4ae0-826d-e9b6f6086c5c.png)
+   ![image](https://user-images.githubusercontent.com/112916890/199146322-ec6673ce-d157-446d-8557-8407d7d84813.png)
+   * 區塊鏈
+      * 最大價值: 共識與協作
+      * 
 * 上課簡報: [9/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 
