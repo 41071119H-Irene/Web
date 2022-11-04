@@ -127,8 +127,11 @@
 > ### week7
 >> #### [個人作業三-AWS Lab1&2 S3 & EC2 Introduction](https://youtu.be/dlJcCukwRv4)
 > ### week9
->> #### [個人作業四-AWS Lab5&6 VPC & IAM Introduction]()
-![image](https://user-images.githubusercontent.com/112916890/199136121-41c75b6e-aefd-4276-9096-dd553981e8c6.png)
-
+>> #### [個人作業四-AWS Lab5&6 VPC & IAM Introduction](https://youtu.be/jAtAjunmAeM)
 
 ## 📽️專題連結-科學生活節
+### 3rd 後山黑客松-初選入選
+![image](https://user-images.githubusercontent.com/112916890/200021837-4f48e1d9-c26d-4561-893c-b8d42831164e.png)
+
+
+![image](https://user-images.githubusercontent.com/112916890/200021606-6f798f2d-987e-4a7d-8405-526ffd59d68c.png)
