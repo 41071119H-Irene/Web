@@ -114,8 +114,11 @@
    * 區塊鏈
       * 最大價值: 共識與協作
       * 
-* 上課簡報: [9/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+* 上課簡報: [9/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=blu5UMDbWag&feature=youtu.be)
 
+### week 11: INTRODUCTION TO DYNAMO DB LAB
+* Dynamo DB
+* 上課簡報: [11/16 網際網路概論](https://docs.google.com/presentation/d/e/2PACX-1vTSqaEeMwLF_Zhjx_SzcggFRlLB9UdF-GRU7eXDf4hlbqQfd_lm0qqLtweAsOW59YFEeLxabarZbt9T/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
