@@ -131,6 +131,8 @@
 >> #### [個人作業三-AWS Lab1&2 S3 & EC2 Introduction](https://youtu.be/dlJcCukwRv4)
 > ### week9
 >> #### [個人作業四-AWS Lab5&6 VPC & IAM Introduction](https://youtu.be/jAtAjunmAeM)
+> ### week11
+>> #### [個人作業五-AWS Lab3, 4, 7 Dynamo DB,RDS, S3託管靜態網站](https://youtu.be/XKq8qMwlDRY)
 
 ## 📽️專題連結-科學生活節
 ### 3rd 後山黑客松-初選入選
